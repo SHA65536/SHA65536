@@ -7,5 +7,6 @@
 ## Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHA65536&repo=Hexago&theme=tokyonight)](https://github.com/SHA65536/Hexago)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHA65536&repo=Vampire-Survivors-Bot&theme=tokyonight)](https://github.com/SHA65536/Vampire-Survivors-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHA65536&repo=Charmeleon&theme=tokyonight)](https://github.com/SHA65536/Charmeleon)
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHA65536&theme=tokyonight&hide=batchfile)](https://github.com/anuraghazra/github-readme-stats)

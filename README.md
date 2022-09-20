@@ -5,7 +5,7 @@
 
 [![SHA65536's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHA65536&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHA65536&repo=Hexago&theme=tokyonight)](https://github.com/SHA65536/Hexago)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHA65536&repo=LeetcodeDaily&theme=tokyonight)](https://github.com/SHA65536/LeetcodeDaily)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHA65536&repo=Vampire-Survivors-Bot&theme=tokyonight)](https://github.com/SHA65536/Vampire-Survivors-Bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHA65536&repo=Charmeleon&theme=tokyonight)](https://github.com/SHA65536/Charmeleon)
 ## Languages

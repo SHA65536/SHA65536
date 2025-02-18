@@ -1,4 +1,4 @@
-## Hello! I'm Shachar Avuka!
+## Hello! I'm SHA!
 ![GitHub followers](https://img.shields.io/github/followers/SHA65536?label=Followers&style=social)
 
 [![SHA65536's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHA65536&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
